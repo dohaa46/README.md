@@ -58,8 +58,8 @@ Machine Learning and Deep Learning approach for detecting IoT network intrusions
 
 ## 📫 Contact
 
-📧 Email: [your email]
+📧 Email: dohaaboulmane@gmail.com
 
-💼 LinkedIn: [your LinkedIn]
+💼 LinkedIn: www.linkedin.com/in/doha-boulmane
 
 📍 Morocco
